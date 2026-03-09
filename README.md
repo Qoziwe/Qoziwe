@@ -21,7 +21,7 @@ I am a passionate Full-Stack and Mobile Developer with a strong focus on system 
 - ⚙️ Deep expertise in **Linux server administration**, infrastructure setup, and complex database architectures.
 - 🤖 Active user of **Artificial Intelligence** tools to optimize workflows, code generation, and problem-solving.
 - 📱 Hands-on experience with native mobile development environments (Android Studio, Rust).
-- 📫 How to reach me: **leranai.cht@gmail.com** or ** *https://t.me/qeleran*
+- 📫 How to reach me: **leka.false@gmail.com** or **https://t.me/qeleran**
 
 ---
 
