@@ -35,14 +35,15 @@ I enjoy taking full ownership of projects—from sketching the database schema t
 
 ### 🚀 Featured Projects
 
-#### [Eventum](https://github.com/Qoziwe/Eventum)
+#### 📱 [Eventum](https://github.com/Qoziwe/Eventum)
 > *A high-load event management platform. Built to handle real-time updates and complex data filtering, wrapped in a smooth cross-platform interface.*
 
 <div align="center">
   <a href="https://github.com/Qoziwe/Eventum">
-    <img src="eventum.png" alt="Eventum Preview" width="100%" style="border-radius: 10px;">
+    <img src="eventum.png" alt="Eventum Preview" width="450" style="border-radius: 10px;">
   </a>
 </div>
+
 <br/>
 
 **Tech Stack:** `React Native` | `Node.js` | `PostgreSQL` | `Docker`  
@@ -50,18 +51,19 @@ I enjoy taking full ownership of projects—from sketching the database schema t
 
 <br/>
 
-####[AmadeusX](https://github.com/Qoziwe/AmadeusX)
+#### 💻 [AmadeusX](https://github.com/Qoziwe/AmadeusX)
 > *An automated service system built with scalability in mind. Focuses on secure data processing, rapid deployment, and modern architectural patterns.*
 
 <div align="center">
   <a href="https://github.com/Qoziwe/AmadeusX">
-    <img src="amadeusx.png" alt="AmadeusX Preview" width="100%" style="border-radius: 10px;">
+    <img src="amadeusx.png" alt="AmadeusX Preview" width="600" style="border-radius: 10px;">
   </a>
 </div>
+
 <br/>
 
 **Tech Stack:** `Python` | `Django` | `REST API` | `Linux Server`  
-🔗 [Source Code](https://github.com/Qoziwe/AmadeusX) | 🌐[Live Demo](https://amadeusx-web.onrender.com/)
+🔗 [Source Code](https://github.com/Qoziwe/AmadeusX) | 🌐 [Live Demo](https://amadeusx-web.onrender.com/)
 
 ---
 
