@@ -40,7 +40,7 @@ I enjoy taking full ownership of projects—from sketching the database schema t
 
 <div align="center">
   <a href="https://github.com/Qoziwe/Eventum">
-    <img src="eventum.png" alt="Eventum Preview" width="450" style="border-radius: 10px;">
+    <img src="eventum.png" alt="Eventum Preview" width="350" style="border-radius: 10px;">
   </a>
 </div>
 
