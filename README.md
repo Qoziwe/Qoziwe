@@ -81,7 +81,7 @@ I focus on understanding systems deeply — from database structure and backend 
 <br/>
 
 **Tech Stack:** `Python` | `Flask` | `Web Crypto API` | `Socket.IO` | `PostgreSQL`
-🔗 [Source Code](https://github.com/Qoziwe/AmadeusX) | [Live Demo](https://amadeusx-web.onrender.com/)
+🔗 [Source Code](https://github.com/Qoziwe/AmadeusX) | [Live Demo](https://amadeus.andatra.space)
 
 ---
 
